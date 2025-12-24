@@ -1,0 +1,7 @@
+{
+  "name": "Christmas To TangLiang",
+  "description": "A magical interactive Christmas experience with hand gestures and 3D visuals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
